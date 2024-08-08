@@ -1,8 +1,10 @@
+//note--> important
+
 class Solution 
 {
     public boolean canPlaceFlowers(int[] flowerbed, int n) 
     {
-        int c = 0; // Number of flowers we can plant
+        int c = 0; 
         int N = flowerbed.length;
 
         // Handle edge cases
@@ -42,7 +44,7 @@ class Solution
             {
                 flowerbed[i] = 1;
                 c++;
-                i++; // Skip the next plot to avoid overlapping
+                 // Skip the next plot to avoid overlapping
             }
         }
 
