@@ -5,11 +5,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
