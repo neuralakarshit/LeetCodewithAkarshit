@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
