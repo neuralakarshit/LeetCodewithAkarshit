@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
