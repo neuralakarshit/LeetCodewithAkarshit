@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0200-number-of-islands) |
+| [0334-increasing-triplet-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0334-increasing-triplet-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0334-increasing-triplet-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
