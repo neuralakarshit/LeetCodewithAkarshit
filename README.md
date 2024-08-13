@@ -17,14 +17,20 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
