@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Sorting
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
 | ------- |
