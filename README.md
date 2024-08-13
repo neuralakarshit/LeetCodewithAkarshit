@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0443-string-compression) |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
