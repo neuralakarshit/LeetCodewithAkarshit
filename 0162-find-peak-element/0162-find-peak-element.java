@@ -4,7 +4,7 @@ class Solution {
 
         int l=0;
         int h=nums.length-1;
-        int mid =0;
+        int mid=0;
 
         while(l<h)
         {
@@ -18,7 +18,7 @@ class Solution {
                 h=mid;
             }
         }
-        return h ;
+        return l ;
         
     }
 }
