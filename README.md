@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +64,16 @@
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
