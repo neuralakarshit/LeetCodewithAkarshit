@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
