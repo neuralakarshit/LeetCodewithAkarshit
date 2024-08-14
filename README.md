@@ -11,12 +11,14 @@
 | [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -54,4 +57,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
