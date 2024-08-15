@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
