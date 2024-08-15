@@ -26,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0443-string-compression) |
@@ -63,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0141-linked-list-cycle) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Tree
 |  |
@@ -79,6 +81,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
