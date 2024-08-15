@@ -28,6 +28,7 @@
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0443-string-compression) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -84,10 +86,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
