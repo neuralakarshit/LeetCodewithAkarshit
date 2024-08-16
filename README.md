@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0118-pascals-triangle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
@@ -49,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
