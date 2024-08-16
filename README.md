@@ -76,14 +76,17 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +106,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
