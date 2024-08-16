@@ -17,21 +17,21 @@ class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) 
     {
 
-        int cursum=0;
-        return checkSum(root,targetSum,cursum);
+        int curSum=0;
+        return checkSum(root,targetSum,curSum);
         
     }
 
-    boolean checkSum(TreeNode root,int targetSum,int cursum)
+    boolean checkSum(TreeNode root,int targetSum,int curSum)
     {
         if(root==null)
         {
             return false;
         }
-        int newSum=cursum + root.val;
+        curSum=curSum + root.val;
         if(root.left==null && root.right==null)
         {
-            if(newSum==targetSum)
+            if(curSum==targetSum)
             {
                 return true;
             }
@@ -41,6 +41,6 @@ class Solution {
             }
         }
 
-        return (checkSum(root.left,targetSum,newSum)||checkSum(root.right,targetSum,newSum));
+        return (checkSum(root.left,targetSum,curSum)||checkSum(root.right,targetSum,curSum));
     }
 }
