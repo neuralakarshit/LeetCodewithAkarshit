@@ -96,6 +96,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0206-reverse-linked-list) |
@@ -118,4 +119,16 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
