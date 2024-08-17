@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1046-max-consecutive-ones-iii](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1046-max-consecutive-ones-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Sorting
@@ -48,6 +49,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
+| [1046-max-consecutive-ones-iii](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Breadth-First Search
 |  |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0023-merge-k-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
