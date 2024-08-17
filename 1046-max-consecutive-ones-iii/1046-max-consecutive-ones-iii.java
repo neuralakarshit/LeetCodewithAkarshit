@@ -1,36 +1,50 @@
 class Solution {
     public int longestOnes(int[] nums, int k) 
     {
-        int left=0;
-        int right=0;
-        int zeros=0;
-        int len=0;
-        int max=0;
+        // Initialize the left and right pointers for the sliding window
+        int left = 0;
+        int right = 0;
+        
+        // To keep track of the number of zeros in the current window
+        int zeros = 0;
+        
+        // Variables to store the current window length and the maximum length found
+        int len = 0;
+        int max = 0;
 
-        while(right<nums.length)
+        // Iterate through the array using the right pointer
+        while (right < nums.length)
         {
-               if(nums[right]==0)
-               {
+            // If the current element is 0, increment the zero count
+            if (nums[right] == 0)
+            {
                 zeros++;
-               }
-                
-                while(zeros>k)
+            }
+            
+            // If the number of zeros exceeds k, shrink the window from the left
+            while (zeros > k)
+            {
+                if (nums[left] == 0)
                 {
-                    if(nums[left]==0)
-                    {
-                        zeros--;
-                    }
-                    left++;
+                    zeros--; // Reduce the zero count as we're moving the left pointer
                 }
-                if(zeros<=k)
-                {
-                    len=right-left+1;
-                    max=Math.max(max,len);
-                }
-                right++;
-
+                left++; // Move the left pointer to the right to shrink the window
+            }
+            
+            // If the number of zeros is within the allowed limit (k)
+            if (zeros <= k)
+            {
+                // Calculate the current window length
+                len = right - left + 1;
+                // Update the maximum length found so far
+                max = Math.max(max, len);
+            }
+            
+            // Move the right pointer to expand the window
+            right++;
         }
+        
+        // Return the maximum length of consecutive 1s found after flipping at most k zeros
         return max;
-
     }
 }
