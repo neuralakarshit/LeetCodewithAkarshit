@@ -21,6 +21,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
