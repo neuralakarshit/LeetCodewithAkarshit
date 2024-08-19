@@ -31,6 +31,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -41,12 +42,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
