@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
 ## Simulation
 |  |
