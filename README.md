@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
