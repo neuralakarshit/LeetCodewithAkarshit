@@ -20,7 +20,7 @@ class Solution
 
         if(root==null)
         {
-            return null;
+            return root;
         }
 
         TreeNode left=invertTree(root.left);
