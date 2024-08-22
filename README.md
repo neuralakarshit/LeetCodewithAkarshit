@@ -30,6 +30,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
