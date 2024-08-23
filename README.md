@@ -85,6 +85,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0657-robot-return-to-origin) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Breadth-First Search
 |  |
@@ -117,4 +118,5 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
+| [0657-robot-return-to-origin](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
