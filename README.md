@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
