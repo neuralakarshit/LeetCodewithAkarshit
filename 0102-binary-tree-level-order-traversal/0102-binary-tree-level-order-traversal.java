@@ -29,9 +29,9 @@ class Solution
 
         while(!q.isEmpty())
         {
-            int level=q.size();
+            int levelsize=q.size();
             List<Integer> currentlevel=new ArrayList<>();
-            for(int i=0;i<level;i++)
+            for(int i=0;i<levelsize;i++)
             {
                 TreeNode current=q.poll();
                 if(current.left!=null)
