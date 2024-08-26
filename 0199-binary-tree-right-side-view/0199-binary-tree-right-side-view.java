@@ -23,11 +23,11 @@ class Solution
         
     }
 
-    public List<Integer> RSView(TreeNode root,int level,List<Integer> l)
+    public void RSView(TreeNode root,int level,List<Integer> l)
     {
         if(root==null)
         {
-            return null;
+            return ;
         }
           
           if(l.size()==level)
@@ -36,6 +36,6 @@ class Solution
           }
         RSView(root.right,level+1,l);
         RSView(root.left,level+1,l);
-        return l;
+    
     } 
 }
