@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
@@ -21,6 +22,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -46,12 +48,14 @@
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0144-binary-tree-preorder-traversal) |
@@ -142,6 +146,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
