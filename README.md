@@ -87,6 +87,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1005-univalued-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1005-univalued-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0226-invert-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0543-diameter-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1005-univalued-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1005-univalued-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
 | ------- |
