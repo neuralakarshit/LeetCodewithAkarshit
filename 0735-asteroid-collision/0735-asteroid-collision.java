@@ -1,35 +1,50 @@
 class Solution 
 {
-    public int[] asteroidCollision(int[] asteroids)
+    public int[] asteroidCollision(int[] a) 
+    
     {
         Stack<Integer> stack = new Stack<>();
 
-        for (int asteroid : asteroids) {
-            boolean destroyed = false;
+        for (int i = 0; i < a.length; i++) 
+        {
+            if (stack.isEmpty() || a[i] > 0) 
+            {
+                stack.push(a[i]);
+            } 
 
-            while (!stack.isEmpty() && asteroid < 0 && stack.peek() > 0) {
-                if (stack.peek() < -asteroid) {
-                    stack.pop(); // The right-moving asteroid is smaller, so it's destroyed.
-                    continue;
-                } else if (stack.peek() == -asteroid) {
-                    stack.pop(); // Both asteroids destroy each other.
+            else 
+            {
+                // Handle collision with a negative asteroid
+                while (!stack.isEmpty() && stack.peek() > 0 && stack.peek() < Math.abs(a[i])) 
+                {
+                    stack.pop();  // Pop the smaller positive asteroid
                 }
-                destroyed = true;
-                break;
-            }
+                
+                // If the stack is empty or the top is negative, push the current asteroid
+                if (stack.isEmpty() || stack.peek() < 0) 
+                {
+                    stack.push(a[i]);
+                } 
+                
+                else if (stack.peek() == Math.abs(a[i])) 
 
-            if (!destroyed) {
-                stack.push(asteroid);
+                {
+                    // Equal in size but opposite directions, both destroy each other
+                    stack.pop();
+                }
+                // Else the current negative asteroid is destroyed (no need to push it)
             }
         }
 
-        // Convert the stack to an array
+
+        // Convert stack to an array
         int[] result = new int[stack.size()];
-        for (int i = stack.size() - 1; i >= 0; i--) {
+
+        for (int i = stack.size() - 1; i >= 0; i--)
+        {
             result[i] = stack.pop();
         }
 
         return result;
-        
     }
 }
