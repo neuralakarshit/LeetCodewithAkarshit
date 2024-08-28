@@ -62,6 +62,7 @@
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -216,6 +217,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
