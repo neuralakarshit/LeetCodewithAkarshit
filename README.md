@@ -63,6 +63,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
+| [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0657-robot-return-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2470-removing-stars-from-a-string) |
