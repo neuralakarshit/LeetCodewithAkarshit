@@ -18,6 +18,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2428-equal-row-and-column-pairs) |
@@ -70,6 +71,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -173,6 +175,7 @@
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
