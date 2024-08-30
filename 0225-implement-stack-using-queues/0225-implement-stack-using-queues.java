@@ -12,7 +12,7 @@ class MyStack
     
     public void push(int x)
     {
-        while(!q2.isEmpty())
+      /*  while(!q2.isEmpty())            
         {
             q1.offer(q2.poll());
 
@@ -22,7 +22,18 @@ class MyStack
         {
             q2.offer(q1.poll());
         }
-        
+        */ 
+
+        // using only one queue !
+
+        int size = q2.size();
+        q2.offer(x);
+
+        while(size>0)
+        {
+            q2.offer(q2.poll());
+            size--;
+        }
     }
     
     public int pop() 
