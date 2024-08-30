@@ -12,33 +12,55 @@ class MyQueue
     
     public void push(int x) 
     {
+        /*
+
         while(!s2.isEmpty())
         {
             s1.push(s2.pop());
-        }
+        }                           here,T.C--> O(n) for each while loop not in O(1)
         s2.push(x);
         while(!s1.isEmpty())
         {
             s2.push(s1.pop());
         }
+
+        */  
+
+
+        // where each operation in o(1)
+        
+        s2.push(x);
         
     }
     
     public int pop() 
     {
-        return s2.pop();
+       // return s2.pop();
+
+       peek();// reverse original stack(s2) by transferring elem to stack1
+return s1.pop();//reversed stack in s1 returns top elem as last from original stack 
         
     }
     
     public int peek() 
     {
-        return s2.peek();
+       // return s2.peek();
+
+       if(s1.isEmpty())
+       {
+        while(!s2.isEmpty())
+        {
+            s1.push(s2.pop()); // reverses stack by transferring elem to s1
+        }
+       }
+
+       return s1.peek();
         
     }
     
     public boolean empty() 
     {
-        return s2.isEmpty();
+        return s2.isEmpty() && s1.isEmpty();
         
     }
 }
