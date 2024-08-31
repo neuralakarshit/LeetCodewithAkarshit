@@ -44,7 +44,7 @@ class Solution
             {
                 flowerbed[i] = 1;
                 c++;
-                 // Skip the next plot to avoid overlapping
+                
             }
         }
 
