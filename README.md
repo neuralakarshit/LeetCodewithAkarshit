@@ -60,6 +60,7 @@
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0657-robot-return-to-origin) |
