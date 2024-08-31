@@ -220,6 +220,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0657-robot-return-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2470-removing-stars-from-a-string) |
@@ -263,6 +264,7 @@
 | [0225-implement-stack-using-queues](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
@@ -276,4 +278,5 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
