@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
@@ -266,4 +267,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
