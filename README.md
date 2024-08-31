@@ -152,6 +152,7 @@
 | [0657-robot-return-to-origin](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0983-validate-stack-sequences) |
+| [1642-water-bottles](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2470-removing-stars-from-a-string) |
@@ -172,6 +173,7 @@
 | [0007-reverse-integer](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [1642-water-bottles](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
