@@ -32,6 +32,7 @@
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -177,6 +178,7 @@
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
