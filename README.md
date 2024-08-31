@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
@@ -175,6 +176,7 @@
 | [0007-reverse-integer](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -188,6 +190,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -205,6 +208,7 @@
 | [0190-reverse-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -218,6 +222,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
@@ -233,6 +238,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
