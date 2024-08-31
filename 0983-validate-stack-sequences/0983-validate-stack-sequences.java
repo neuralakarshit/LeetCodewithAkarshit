@@ -13,6 +13,7 @@ class Solution
                     stack.pop();
                     j++;
                 }
+          
         }
     
         return stack.isEmpty();
