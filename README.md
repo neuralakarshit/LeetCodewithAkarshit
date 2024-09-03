@@ -206,6 +206,7 @@
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0496-next-greater-element-i) |
+| [1297-maximum-number-of-balloons](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -235,6 +236,7 @@
 | [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0657-robot-return-to-origin) |
+| [1297-maximum-number-of-balloons](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1297-maximum-number-of-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
+| [1297-maximum-number-of-balloons](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1777-determine-if-two-strings-are-close) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
