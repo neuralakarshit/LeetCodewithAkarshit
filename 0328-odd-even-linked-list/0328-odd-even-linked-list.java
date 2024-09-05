@@ -35,7 +35,8 @@
  
  
   */
-class Solution {
+class Solution 
+{
     public ListNode oddEvenList(ListNode head) 
     {
          if (head == null || head.next == null)
@@ -56,7 +57,7 @@ class Solution {
             even = even.next;        // Move even pointer to the next even node
         }
 
-        odd.next = evenHead;         // Connect the end of odd list to the head of the even list
+        odd.next = evenHead;  // Connect the end of odd list to the head of the even list
 
         return head;
        
