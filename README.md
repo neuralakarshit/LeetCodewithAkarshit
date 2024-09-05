@@ -205,6 +205,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0496-next-greater-element-i) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1777-determine-if-two-strings-are-close) |
