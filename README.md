@@ -189,6 +189,7 @@
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0371-sum-of-two-integers) |
 | [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -230,6 +231,7 @@
 | [0191-number-of-1-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
 | ------- |
