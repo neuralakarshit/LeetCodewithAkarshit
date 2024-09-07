@@ -235,6 +235,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
