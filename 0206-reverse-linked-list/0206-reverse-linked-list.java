@@ -8,6 +8,10 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+
+ // note -- iterative way- T.C=O(n) , S.C=O(1)
+ //         recursive way- T.C=O(n) , S.C=O(n)
 class Solution {
     public ListNode reverseList(ListNode head) 
     {
