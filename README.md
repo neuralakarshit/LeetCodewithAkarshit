@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
