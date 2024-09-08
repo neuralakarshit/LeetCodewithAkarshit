@@ -68,6 +68,7 @@
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -194,6 +195,7 @@
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0371-sum-of-two-integers) |
+| [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
 ## Design
 |  |
 | ------- |
