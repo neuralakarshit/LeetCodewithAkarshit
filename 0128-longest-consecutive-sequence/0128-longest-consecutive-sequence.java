@@ -23,6 +23,8 @@ class Solution
 
 
            if(map.get(key)==true)
+ // so only those starting seq. keys will check i.e constant and T.C = O(1)
+ // otherwise if each key would be checked it would be O(n^2)
            {
                 while(map.containsKey(key+k)==true)
                  {
