@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
@@ -264,6 +267,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
@@ -273,6 +277,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1510-find-lucky-integer-in-an-array) |
