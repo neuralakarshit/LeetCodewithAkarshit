@@ -1,3 +1,11 @@
+/*          NOTE-->
+
+In your code, stack.peek() and minstack.peek() return Integer objects, not primitive int values. When you use ==, it checks if the two Integer objects reference the same memory location, which is not necessarily true even if they have the same value. Therefore, the condition might not be true even if the values are the same.
+
+On the other hand, .equals() compares the values of the Integer objects, which is why it works correctly for your purpose.
+
+ */
+
 class MinStack 
 {
     Stack<Integer> stack;
