@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
@@ -166,6 +168,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
@@ -291,6 +294,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
