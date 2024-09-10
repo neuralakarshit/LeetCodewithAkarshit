@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
@@ -72,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -248,6 +250,7 @@
 | [0191-number-of-1-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -297,6 +300,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
 ## Design
 |  |
