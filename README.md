@@ -36,6 +36,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2331-intersection-of-multiple-arrays) |
 | [2428-equal-row-and-column-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
