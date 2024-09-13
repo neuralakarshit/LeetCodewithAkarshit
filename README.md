@@ -25,6 +25,7 @@
 | [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
+| [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-validate-stack-sequences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1319-unique-number-of-occurrences) |
@@ -45,6 +46,7 @@
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -249,6 +251,7 @@
 | [0190-reverse-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,6 +332,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0649-dota2-senate) |
+| [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
@@ -354,4 +358,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
