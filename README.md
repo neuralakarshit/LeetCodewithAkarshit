@@ -40,6 +40,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2331-intersection-of-multiple-arrays) |
 | [2428-equal-row-and-column-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2428-equal-row-and-column-pairs) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0649-dota2-senate) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Union Find
 |  |
 | ------- |
