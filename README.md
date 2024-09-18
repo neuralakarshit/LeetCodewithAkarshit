@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
@@ -237,6 +238,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
@@ -312,6 +314,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0073-set-matrix-zeroes) |
 | [2428-equal-row-and-column-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2428-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
