@@ -33,7 +33,10 @@ class Solution
         {
             return lans;
         }
+        else
+        {
         return root;
+        }
         
     }
 }
