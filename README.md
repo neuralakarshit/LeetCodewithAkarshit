@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@
 | [0015-3sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
