@@ -26,7 +26,7 @@ class Solution
             return 0;
 
     // HashMap stores the prefix sums and how often they occur. We initialize it with 0 sum, seen once.
-        HashMap<Long, Integer> hm = new HashMap<>();
+        HashMap<Long, Integer> hm = new HashMap<>(); // use Long for large node value to store sum
         hm.put(0L, 1);
 
        
