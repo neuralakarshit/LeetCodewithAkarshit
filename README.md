@@ -216,6 +216,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
