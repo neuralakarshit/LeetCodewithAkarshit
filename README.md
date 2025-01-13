@@ -51,6 +51,7 @@
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -122,6 +123,7 @@
 | [0206-reverse-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -358,6 +361,7 @@
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
