@@ -4,9 +4,7 @@ class Solution {
       { 
         int l=nums.length;
         int c=0;
-        int k=-1;
-        int j=0;
-        int[]arr=new int[l];
+        
         for(int i=0;i<nums.length;i++)
          {
              if(nums[i]!=val)
@@ -18,6 +16,7 @@ class Solution {
              }
              
           }
+          
           for(int i=0;i<nums.length;i++)
           {
             if(nums[i]==-1 || nums[i]==val)
@@ -25,7 +24,6 @@ class Solution {
                 nums[i]=-1;
                
             } 
-           
           }
         
           return c;
