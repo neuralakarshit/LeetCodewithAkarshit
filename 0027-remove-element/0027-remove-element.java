@@ -20,16 +20,11 @@ class Solution {
           }
           for(int i=0;i<nums.length;i++)
           {
-            if(nums[i]!=-1&&nums[i]!=val)
+            if(nums[i]==-1 || nums[i]==val)
             {
-                nums[j]=nums[i];
-                j++;
-            }
-            else
-            {
-                nums[j]=-1;
-                j++;
-            }
+                nums[i]=-1;
+               
+            } 
            
           }
         
