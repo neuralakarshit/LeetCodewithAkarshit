@@ -36,6 +36,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-validate-stack-sequences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0983-validate-stack-sequences) |
+| [1019-squares-of-a-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1031-add-to-array-form-of-integer) |
 | [1072-next-greater-node-in-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1319-unique-number-of-occurrences) |
@@ -95,6 +96,7 @@
 | [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -322,6 +324,7 @@
 | [0217-contains-duplicate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1777-determine-if-two-strings-are-close) |
 | [2331-intersection-of-multiple-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2331-intersection-of-multiple-arrays) |
