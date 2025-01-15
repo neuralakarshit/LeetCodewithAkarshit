@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1013-fibonacci-number) |
@@ -395,6 +397,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0316-remove-duplicate-letters) |
 | [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0649-dota2-senate) |
