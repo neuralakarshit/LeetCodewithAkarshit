@@ -1,3 +1,7 @@
+
+
+
+
 // Note--> s1.split("\\s+"); \\s+(to handle multiple spaces correctly)
 // eg.a good   example--> here after good 2 spaces or present
 // so //s+--> one more spaces split each word of string and just place words in string array
