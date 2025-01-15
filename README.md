@@ -238,6 +238,7 @@
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1013-fibonacci-number) |
@@ -411,4 +412,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
