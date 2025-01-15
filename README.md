@@ -92,6 +92,7 @@
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0316-remove-duplicate-letters) |
