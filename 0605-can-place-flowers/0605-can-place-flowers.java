@@ -25,7 +25,7 @@ class Solution
         if (flowerbed[0] == 0 && flowerbed[1] == 0) 
         {
             flowerbed[0] = 1;
-            flowerbed[0]=1;
+           // flowerbed[0]=1;
             c++;
         }
 
