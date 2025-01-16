@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
@@ -361,6 +362,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0222-count-complete-tree-nodes) |
