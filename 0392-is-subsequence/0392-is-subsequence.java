@@ -7,7 +7,7 @@ class Solution {
             return false;
         }
 
-        if (s.isEmpty()) 
+        if (s.equals("")) 
         {
             return true; // An empty string is a subsequence of any string
         }
