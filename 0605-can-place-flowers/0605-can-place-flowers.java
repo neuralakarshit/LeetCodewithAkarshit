@@ -25,7 +25,6 @@ class Solution
         if (flowerbed[0] == 0 && flowerbed[1] == 0) 
         {
             flowerbed[0] = 1;
-           // flowerbed[0]=1;
             c++;
         }
 
@@ -33,7 +32,6 @@ class Solution
         if (flowerbed[N - 1] == 0 && flowerbed[N - 2] == 0)
         {
             flowerbed[N - 1] = 1;
-            flowerbed[N-1]=1;
             c++;
         }
 
