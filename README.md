@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0496-next-greater-element-i) |
@@ -99,6 +100,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0345-reverse-vowels-of-a-string) |
