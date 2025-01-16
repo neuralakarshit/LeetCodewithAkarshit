@@ -98,6 +98,7 @@
 | [0031-next-permutation](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0242-valid-anagram) |
