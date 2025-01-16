@@ -1,4 +1,12 @@
-class Solution {
+
+
+
+
+/*Note-->Regular Expression [^A-Za-z0-9]: This regex matches any character that is not a letter (both uppercase and lowercase) or a digit. Thus, it effectively removes spaces, punctuation, and other special characters.
+ */
+
+
+ class Solution {
     public boolean isPalindrome(String s) 
     {
 
