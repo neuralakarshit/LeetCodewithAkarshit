@@ -39,6 +39,7 @@
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-validate-stack-sequences](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0983-validate-stack-sequences) |
@@ -376,6 +377,7 @@
 | [0268-missing-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Design
 |  |
