@@ -41,7 +41,7 @@ class Solution {
         }
 
 
-        l=ans[0];    // if found and earch right side same elem 
+        l=ans[0];    // if found and each right side same elem 
         h=nums.length-1;
 
         while(l<=h)
