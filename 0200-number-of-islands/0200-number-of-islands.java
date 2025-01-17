@@ -4,6 +4,8 @@ note--> grid[0].length: This gives you the length of the first row, which is the
 Correct Order of Conditions
 The condition should first ensure the indices are within bounds before accessing the matrix and checking the content:
 
+grid[i][j]=='0' seperate from different island and we recursively make zero in each row and column
+
 
 */
 class Solution 
