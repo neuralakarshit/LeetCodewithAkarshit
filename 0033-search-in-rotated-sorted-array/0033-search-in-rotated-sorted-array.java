@@ -16,7 +16,7 @@ class Solution {
                 break;
 
              }
-             if(nums[mid]>=nums[l])
+             if(nums[mid]>=nums[h])
              {
                 
                 if(target<nums[mid] && target>=nums[l])
