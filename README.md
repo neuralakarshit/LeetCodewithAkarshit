@@ -35,6 +35,7 @@
 | [0496-next-greater-element-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
