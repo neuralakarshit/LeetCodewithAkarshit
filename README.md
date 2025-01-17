@@ -55,6 +55,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1833-find-the-highest-altitude) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2331-intersection-of-multiple-arrays) |
