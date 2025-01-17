@@ -25,6 +25,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0217-contains-duplicate) |
@@ -187,6 +188,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0437-path-sum-iii) |
@@ -242,6 +244,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/2428-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
@@ -429,6 +433,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/neuralakarshit/leetcodewithAkarshit/tree/master/0200-number-of-islands) |
 ## Quickselect
 |  |
 | ------- |
